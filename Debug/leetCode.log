@@ -1,0 +1,17 @@
+﻿  ZigZagConversion.cpp
+  two_sum.cpp
+c:\users\ljx\documents\visual studio 2017\projects\leetcode\leetcode\two_sum.cpp(5): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\ljx\documents\visual studio 2017\projects\leetcode\leetcode\two_sum.cpp(7): warning C4018: “<”: 有符号/无符号不匹配
+  Roman_to_Integer.cpp
+  reverse_Integer.cpp
+c:\users\ljx\documents\visual studio 2017\projects\leetcode\leetcode\reverse_integer.cpp(27): warning C4101: “i”: 未引用的局部变量
+c:\users\ljx\documents\visual studio 2017\projects\leetcode\leetcode\reverse_integer.cpp(45): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  Palindrome_Number.cpp
+  main.cpp
+  LongestCommonPrefix.cpp
+c:\users\ljx\documents\visual studio 2017\projects\leetcode\leetcode\longestcommonprefix.cpp(29): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\ljx\documents\visual studio 2017\projects\leetcode\leetcode\longestcommonprefix.cpp(43): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\ljx\documents\visual studio 2017\projects\leetcode\leetcode\longestcommonprefix.cpp(44): warning C4018: “>=”: 有符号/无符号不匹配
+  正在生成代码...
+  leetCode.vcxproj -> C:\Users\LJX\documents\visual studio 2017\Projects\leetCode\Debug\leetCode.exe
+  leetCode.vcxproj -> C:\Users\LJX\documents\visual studio 2017\Projects\leetCode\Debug\leetCode.pdb (Partial PDB)
